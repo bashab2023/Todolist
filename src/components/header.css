@@ -1,0 +1,13 @@
+.header{
+    background-color: yellow;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding: 10px;
+    font-size: 2em;
+    box-shadow: 0 4PX 6PX rgba(0,0,0,0.2);
+}
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
